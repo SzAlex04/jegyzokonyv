@@ -1,11 +1,17 @@
 ### Mérési Jegyzőkönyv**
 
 **Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum 
+
 **Mérés helyszíne**: Labor V3
+
 **Mérés tárgya**: Antenna teljesítmény vs. jelszint/jelminőség
+
 **Mérés időpontja**: 2024.11.20.  
+
 **Felelős személy**: Szabó Alex Máté
+
 **Cél**: Különböző antennákkal a jelminőség és jelszint értékek változását vizsgálják különböző körülmények között.
+
 
 ---
 
