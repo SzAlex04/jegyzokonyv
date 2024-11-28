@@ -53,4 +53,6 @@
 
 
 **Jegyzőkönyv vezetője**: Szabó Alex
+
 **Jegyzőkönyv hitelesítő**: Sándor Péter
+
