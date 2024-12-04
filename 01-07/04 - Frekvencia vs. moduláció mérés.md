@@ -66,6 +66,8 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
        
 <details>
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0001.bmp"/>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0003.bmp"/>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0002.bmp"/>
 </details>
 
 <br>
@@ -75,6 +77,8 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
      
 <details>
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0006.bmp"/>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0005.bmp"/>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0004.bmp"/>
 </details>
 
 <br>
@@ -83,6 +87,8 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
      
 <details>
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0008.bmp"/>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0009.bmp"/>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0007.bmp"/>
 </details>  
 
 ### 5. Jelszint
