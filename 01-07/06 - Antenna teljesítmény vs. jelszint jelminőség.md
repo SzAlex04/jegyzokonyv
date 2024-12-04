@@ -10,6 +10,8 @@
 
 **Felelős személy**: Szabó Alex Máté
 
+**Csoport**: 13.E Gyak2
+
 **Cél**: Különböző antennákkal a jelminőség és jelszint értékek változását vizsgálják különböző körülmények között.
 
 
