@@ -20,14 +20,14 @@
 ### 1. **Eszközök**
 
 - **Johansson 8202 DVB-T modulátor**
-- **ISKRA P20 LOGPER antenna (vételre)**
-- **ISKRA P2845 antenna (vételre)**
-- **IKUSI FLASHD C48 antenna (vételre)**
-- **Philips SDV5228 (adó oldalra)**
+- **ISKRA P20 LOGPER antenna** (vételre)
+- **ISKRA P2845 antenna** (vételre)
+- **IKUSI FLASHD C48 antenna** (vételre)
+- **Philips SDV5228** (adó oldalra)
 - **RF kábelek**
-- **DVB-T vevő (pl. TV vagy mérőműszer)**
+- **DVB-T vevő** (pl. TV vagy mérőműszer)
 - **METEK HD spektrum/jelszint analizátor**
-- **Laptop a jegyzőkönyv készítéséhez**
+- **Laptop** a jegyzőkönyv készítéséhez
 
 ---
 
