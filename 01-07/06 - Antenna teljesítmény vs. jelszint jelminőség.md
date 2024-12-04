@@ -1,4 +1,4 @@
-### Mérési Jegyzőkönyv**
+### Mérési Jegyzőkönyv
 
 **Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum 
 
