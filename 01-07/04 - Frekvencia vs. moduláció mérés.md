@@ -65,4 +65,5 @@ A különböző modulációs beállítások hatására megfigyeltük, hogy a **6
 **Ajánlás**: A legjobb jelminőséget és sebességet a **64-QAM** moduláció biztosítja, de figyelembe kell venni a környezeti zajt is, amely befolyásolhatja a választott moduláció típusát.
 
 ## Aláírás
-- **Mérési eredmények készítője**:
+**Jegyzőkönyv vezetője**: Szabó Alex
+**Jegyzőkönyv hitelesítő**: Sándor Péter
