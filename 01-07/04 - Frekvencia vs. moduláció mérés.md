@@ -34,7 +34,12 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 - **Jelszint**: dBm-ben
 - **Modulation Error Ratio (MER)**: dB-ben
 - **Bitsebesség**: Mbps-ben
-
+- 
+**DVB-T jel mérése és értékelése**  
+   - A METEK HD spektrum/jelszint analizátorral végzett mérések:  
+     - Jelszint QPSK: -30.7 dBm  
+     - Jelszint 16-QAM: -31.2 dBm  
+     - Jelszint 64-QAM: -31.6 dBm 
 ### 4. Mérési Paraméterek
 
 | Mérési paraméter      | RF frekvencia (MHz) | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
@@ -45,29 +50,16 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 
 ### Mérés képekkel
 
-### 6. Jelszint
+### 5. Jelszint
 A jelszint mérése dBm-ben történt, és az eredmények alapján a legmagasabb jelszintet **64-QAM** modulációval kaptuk, ami jobb vételt biztosított a mérés során.
 
-### 7. Modulációs hiba arány (MER)
-Az MER értékei az alábbiak szerint alakultak:
-- **QPSK**: MER = 39.9 dB
-- **16-QAM**: MER = 35.6 dB
-- **64-QAM**: MER = 39.9 dB
 
-A **64-QAM** moduláció esetén az MER értéke a legmagasabb, ami a legjobb jelminőséget eredményezi.
-
-### Bitsebesség
-A bitsebesség mérése alapján a **64-QAM** moduláció biztosította a legnagyobb sebességet:
-- **QPSK**: Bitsebesség = 3.85 Mbps
-- **16-QAM**: Bitsebesség = 7.77 Mbps
-- **64-QAM**: Bitsebesség = 12.95 Mbps
-
-## 8. Záróértékelés
+## 6. Záróértékelés
 A különböző modulációs beállítások hatására megfigyeltük, hogy a **64-QAM** moduláció a legjobb jelszintet és MER értéket biztosította, de a bitsebesség tekintetében is a legjobb eredményt nyújtotta. Ezzel szemben a **QPSK** moduláció alacsonyabb bitsebességgel és MER értékkel rendelkezett, de a jelszint stabilitása miatt hasznos lehet erősebben zajos környezetekben.
 
 **Ajánlás**: A legjobb jelminőséget és sebességet a **64-QAM** moduláció biztosítja, de figyelembe kell venni a környezeti zajt is, amely befolyásolhatja a választott moduláció típusát.
 
-## 9. Aláírás
+## 7. Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
 
 **Jegyzőkönyv hitelesítő**: Sándor Péter
