@@ -14,7 +14,7 @@
 
 **Cél**: A mérési feladat célja a különböző frekvenciák és modulációk hatásának vizsgálata a DVB-T jelminőségére. A méréseket a **METEK HD spektrum/jelszint analizátor** segítségével végeztük el, a **Johansson 8202 DVB-T modulátor** beállításai szerint.
 
-## 1. Eszközök
+### 1. Eszközök
 - **Johansson 8202 DVB-T modulátor**
 - **RF kábel**
 - **DVB-T vevő** (TV vagy mérőműszer)
