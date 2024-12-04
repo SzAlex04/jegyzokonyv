@@ -102,5 +102,3 @@ A különböző modulációs beállítások hatására megfigyeltük, hogy a **6
 
 ## 7. Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
-
-**Jegyzőkönyv hitelesítő**: Sándor Péter
