@@ -27,6 +27,11 @@ A következő beállítások kerültek alkalmazásra a mérés során:
 - **Modulációs típus**: QPSK, 16-QAM, 64-QAM
 - **Sávszélesség**: 8 MHz
 - **Jelszint**: Optimalizálva a legjobb teljesítmény érdekében
+<br>
+ Johansson 8202
+<details>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/johansson8202.png"/>
+</details>
 
 ## 3. Mérés
 A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek. Az alábbi paramétereket rögzítettük:
