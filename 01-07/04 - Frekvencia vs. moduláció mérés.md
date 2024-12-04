@@ -36,9 +36,9 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 
 | Mérési paraméter      | RF frekvencia (MHz) | Moduláció típusa | Sávszélesség (MHz) | Jelszint (dBm) | Bitsebesség (Mbps) | MER érték (dB) |
 |-----------------------|---------------------|------------------|--------------------|----------------|--------------------|----------------|
-| **Mérési eredmény 1**  | 474                 | QPSK             | 8                  | -xx            | -xx                | -xx            |
-| **Mérési eredmény 2**  | 474                 | 16-QAM           | 8                  | -xx            | -xx                | -xx            |
-| **Mérési eredmény 3**  | 474                 | 64-QAM           | 8                  | -xx            | -xx                | -xx            |
+| **Mérési eredmény 1** | 474                 | QPSK             | 8                  | -30.7          | -3.85 Mbps         | -39.9 dB       |
+| **Mérési eredmény 2** | 474                 | 16-QAM           | 8                  | -31.2          | -7.7 Mbps          | -35.5 dB       |
+| **Mérési eredmény 3** | 474                 | 64-QAM           | 8                  | -31.6          | -12.9 Mbps         | -39.9 dB       |
 
 ## Eredmények és Elemzés
 
@@ -66,4 +66,5 @@ A különböző modulációs beállítások hatására megfigyeltük, hogy a **6
 
 ## Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
+
 **Jegyzőkönyv hitelesítő**: Sándor Péter
