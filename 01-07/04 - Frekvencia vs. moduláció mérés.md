@@ -34,7 +34,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 - **Jelszint**: dBm-ben
 - **Modulation Error Ratio (MER)**: dB-ben
 - **Bitsebesség**: Mbps-ben
-- 
+  
 **DVB-T jel mérése és értékelése**  
    - A METEK HD spektrum/jelszint analizátorral végzett mérések:  
      - Jelszint QPSK: -30.7 dBm  
