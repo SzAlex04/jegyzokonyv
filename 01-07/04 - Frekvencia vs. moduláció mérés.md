@@ -27,6 +27,12 @@ A következő beállítások kerültek alkalmazásra a mérés során:
 - **Modulációs típus**: QPSK, 16-QAM, 64-QAM
 - **Sávszélesség**: 8 MHz
 - **Jelszint**: Optimalizálva a legjobb teljesítmény érdekében
+<br>
+ **Johansson 8202**
+<details>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/johansson8202.png/>
+</details>
+
 
 ## 3. Mérés
 A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek. Az alábbi paramétereket rögzítettük:
@@ -34,7 +40,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 - **Jelszint**: dBm-ben
 - **Modulation Error Ratio (MER)**: dB-ben
 - **Bitsebesség**: Mbps-ben
-  
+
 **DVB-T jel mérése és értékelése**  
    - A METEK HD spektrum/jelszint analizátorral végzett mérések:  
      - Jelszint QPSK: -30.7 dBm  
@@ -73,7 +79,8 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
      
 <details>
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0008.bmp"/>
-</details>   
+</details>  
+
 ### 5. Jelszint
 A jelszint mérése dBm-ben történt, és az eredmények alapján a legmagasabb jelszintet **64-QAM** modulációval kaptuk, ami jobb vételt biztosított a mérés során.
 
