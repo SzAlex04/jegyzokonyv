@@ -43,7 +43,7 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 | **Mérési eredmény 2** | 474                 | 16-QAM           | 8                  | -31.2          | -7.7 Mbps          | -35.5 dB       |
 | **Mérési eredmény 3** | 474                 | 64-QAM           | 8                  | -31.6          | -12.9 Mbps         | -39.9 dB       |
 
-## 5. Mérés képekkel
+### Mérés képekkel
 
 ### 6. Jelszint
 A jelszint mérése dBm-ben történt, és az eredmények alapján a legmagasabb jelszintet **64-QAM** modulációval kaptuk, ami jobb vételt biztosított a mérés során.
