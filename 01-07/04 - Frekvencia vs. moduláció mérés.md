@@ -49,7 +49,31 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 | **Mérési eredmény 3** | 474                 | 64-QAM           | 8                  | -31.6          | -12.9 Mbps         | -39.9 dB       |
 
 ### Mérés képekkel
+<br>
 
+       Jelszint QPSK: -30.7 dBm
+
+       
+<details>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0001.bmp"/>
+</details>
+
+<br>
+
+       Jelszint 16-QAM: -31.2 dBm  
+
+     
+<details>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0006.bmp"/>
+</details>
+
+<br>
+
+      Jelszint 64-QAM: -31.6 dBm  
+     
+<details>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/its_snapshot_0008.bmp"/>
+</details>   
 ### 5. Jelszint
 A jelszint mérése dBm-ben történt, és az eredmények alapján a legmagasabb jelszintet **64-QAM** modulációval kaptuk, ami jobb vételt biztosított a mérés során.
 
