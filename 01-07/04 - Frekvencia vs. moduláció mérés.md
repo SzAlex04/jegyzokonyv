@@ -39,6 +39,11 @@ A mérések a METEK HD spektrum/jelszint analizátor segítségével készültek
 - **Jelszint**: dBm-ben
 - **Modulation Error Ratio (MER)**: dB-ben
 - **Bitsebesség**: Mbps-ben
+<br>
+ METEK HD
+<details>
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/METEKHD.png"/>
+</details>
 
 **DVB-T jel mérése és értékelése**  
    - A METEK HD spektrum/jelszint analizátorral végzett mérések:  
