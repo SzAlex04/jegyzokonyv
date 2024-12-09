@@ -56,7 +56,7 @@ A laptopon jegyzőkönyvet készítettek a mért paraméterekről, a következő
 
 ---
 
-## Mérési Eredmények
+## 5. Mérési Eredmények
 
 | Mérési paraméter   | RF frekvencia (MHz) | Program neve | Bitsebesség (Mbps) | Jelszint (dBm) | MER érték (dB) |
 |--------------------|---------------------|--------------|--------------------|----------------|----------------|
@@ -82,7 +82,7 @@ A laptopon jegyzőkönyvet készítettek a mért paraméterekről, a következő
 
 ---
 
-## Összegzés
+## 6. Összegzés
 
 - A legjobb jelminőséget a 10 Mbps bitsebességgel történő sugárzás biztosította, mivel a jelszint és a MER is optimális tartományban maradt.
 - A magasabb bitsebesség csökkentette a jelminőséget, amit a mérés eredményei is alátámasztanak.
@@ -94,3 +94,6 @@ A laptopon jegyzőkönyvet készítettek a mért paraméterekről, a következő
 A csoportban érdemes megvitatni, hogyan lehetne optimalizálni a többcsatornás jelek sugárzását:
 - A bitsebesség és a moduláció megfelelő kombinálásával.
 - A frekvenciák okos elosztásával a sávszélesség hatékony kihasználása érdekében.
+
+## 7. Aláírás
+**Jegyzőkönyv vezetője**: Szabó Alex
