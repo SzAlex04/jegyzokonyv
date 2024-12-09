@@ -1,3 +1,17 @@
+### Mérési Jegyzőkönyv
+
+**Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum 
+
+**Mérés helyszíne**: Labor V3
+
+**Mérés tárgya**: Bitsebesség vs. jelminőség mérés mérés
+
+**Mérés időpontja**: 2024.12.04.
+
+**Felelős személy**: Szabó Alex Máté
+
+**Csoport**: 13.E Gyak2
+
 ## Cél
 A hallgatók megismerjék a Johansson 8202 DVB-T modulátor képességeit, különös tekintettel a többcsatornás jel generálására. A mérés során a résztvevők két programot állítanak be és mérik a jel minőségét különböző bitsebességek mellett.
 
