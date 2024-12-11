@@ -12,7 +12,7 @@
 
 **Csoport**: 13.E Gyak2
 
-**Cél**:A kísérlet célja a **T ellenállás-hálózat** jellemzőinek meghatározása, különös figyelmet fordítva az impedancia illesztésére és a jel csillapítására. A T-hálózat segítségével meg kívántuk mérni a bemeneti és kimeneti impedanciát, a csillapítást, valamint az átviteli arányt, hogy ellenőrizzük, a hálózat hogyan befolyásolja a jel erősségét.
+**Cél**: A kísérlet célja a **T ellenállás-hálózat** jellemzőinek meghatározása, különös figyelmet fordítva az impedancia illesztésére és a jel csillapítására. A T-hálózat segítségével meg kívántuk mérni a bemeneti és kimeneti impedanciát, a csillapítást, valamint az átviteli arányt, hogy ellenőrizzük, a hálózat hogyan befolyásolja a jel erősségét.
 
 ## 1. Ellenállások értékei
 - **R1:** 0 Ω 
