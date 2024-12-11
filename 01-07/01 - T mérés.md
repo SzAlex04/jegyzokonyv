@@ -63,7 +63,7 @@
  
  A=−TdB =1.33dB
  
-## T-tag Ellenállások Számítása
+## 6. T-tag Ellenállások Számítása
 
 **Adatok:**
 
@@ -71,7 +71,7 @@
 
 **Csillapítás ((A)):** 6 dB
 
-## Eredmények összehasonlítása
+## 7. Eredmények összehasonlítása
 
 **Bemeneti és Kimeneti Impedancia:**
 
