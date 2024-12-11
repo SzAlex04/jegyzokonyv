@@ -21,11 +21,8 @@
 
 ## 2. Kapcsolási rajz 
 
-<br>
-<details>
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/kapcsolasi rajz.svg"/>
-</details>
-  
+
 ## 3. Mérési eredmények
 
 | Mérési paraméter              | Eredmény            |
