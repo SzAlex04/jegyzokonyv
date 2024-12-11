@@ -25,7 +25,7 @@
 
 ## 3. Szimuláció
 
-<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/beolvasott_20241211-0947.png"/>
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/K%C3%A9perny%C5%91k%C3%A9p%202024-12-11%20090144.png"/>
 
 
 ## 4. Mérési eredmények
