@@ -15,15 +15,15 @@
 **Cél**:A kísérlet célja a **T ellenállás-hálózat** jellemzőinek meghatározása, különös figyelmet fordítva az impedancia illesztésére és a jel csillapítására. A T-hálózat segítségével meg kívántuk mérni a bemeneti és kimeneti impedanciát, a csillapítást, valamint az átviteli arányt, hogy ellenőrizzük, a hálózat hogyan befolyásolja a jel erősségét.
 
 ## 1. Ellenállások értékei
-- **R1:** 680 Ω (mért érték)
-- **R2:** 680 Ω (mért érték)
+- **R1:** 0 Ω 
+- **R2:** 0 Ω 
 
 ## 2. Mérési eredmények
 
 | Mérési paraméter              | Eredmény            |
 |-------------------------------|---------------------|
-| **Bemeneti impedancia**        | 680 Ω               |
-| **Kimeneti impedancia**        | 680 Ω               |
+| **Bemeneti impedancia**        | 0 Ω               |
+| **Kimeneti impedancia**        | 0 Ω               |
 | **Átviteli arány**             | 0 dB                |
 | **Csillapítás**                | 6 dB                |
 
