@@ -38,30 +38,36 @@
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/beolvasott_20241211-0947.png"/>
 </details>
 
-## 5. Mérési eredmények
+## 5. Számolások, értékek
+ **Ellenállások értékei:** R1 és R2 mért értékei.
+ R1, R2: 264 Ω, 264 Ω ,
+ R3: 900 Ω
+ Rg: 680 Ω
 
-| Mérési paraméter              | Eredmény            |
-|-------------------------------|---------------------|
-| **Bemeneti impedancia**        | 0 Ω               |
-| **Kimeneti impedancia**        | 0 Ω               |
-| **Átviteli arány**             | 0 dB                |
-| **Csillapítás**                | 6 dB                |
-
-## 6. Eredmények összehasonlítása
-
-A mért eredmények és a számított értékek az alábbiak szerint alakultak:
-
-- A **bemeneti impedancia** és **kimeneti impedancia** megfelel a célzott 680 Ω értékeknek, ami azt jelzi, hogy a T-hálózat megfelelő impedancia illesztést biztosít.
-- Az **átviteli arány** 0 dB, ami azt jelenti, hogy a jel nem csökkent a hálózaton, azaz a bemeneti és kimeneti feszültség azonos.
-- A **csillapítás** 6 dB, ami a kívánt érték, és azt jelzi, hogy a hálózat a várt mértékben csillapítja a jelet.
-
-A mérések során elért eredmények megerősítik, hogy a T-hálózat megfelelően működik és a kívánt csillapítást biztosítja.
-
-## 7. Megjegyzések
-
-- **Nehezen megoldható problémák:** A mérések során nem tapasztaltunk jelentős hibákat, azonban a kimeneti impedancia mérésénél előfordult némi ingadozás az oszcilloszkóp kijelzőjén, amit valószínűleg a mérési környezet (pl. vezetékek hossza) okozott.
-  
-- **Tanulságok:** A kísérlet során megtanultuk, hogyan kell megfelelően beállítani az impedanciát egy T-hálózat segítségével, és hogyan végezhetők el az alapvető mérések egy áramkörben. Az elméleti számításokat a mérések megerősítették, és a gyakorlatban is jól alkalmazhatók voltak.
+ **Mérési eredmények:** Rm= 338.4 Ω Rs=Rl=2045.9 Ω
+ **Bemeneti impedancia:** 1784.8 Ω
+ **Kimeneti impedancia:** 1784.8 Ω
+ **Átviteli arány:** -1.33 dB
+ **Csillapítás:** 1.33 dB
+ 2045.9(2722.72384.3)≈2045.9×0.8746≈1784.8Ω
+ TdB=20log10(T)=20log10(0.8585)≈−1.33dB
+ A=−TdB =1.33dB
+## T-tag Ellenállások Számítása
+Adatok
+**Impedancia ((Z)):** 680 Ω
+**Csillapítás ((A)):** 6 dB
+## Eredmények összehasonlítása
+**Bemeneti és Kimeneti Impedancia:**
+**Számított:** 1784.8 Ω
+**Mért:** 1784.8 Ω
+**Átviteli Arány és Csillapítás:**
+**Számított csillapítás:** 1.33 dB
+**Mért csillapítás:** A csillapítás mért értéke kisebb eltéréseket mutathat a mérési hibák és környezeti tényezők miatt.
+Megjegyzések
+**Mérési hibák:** A mérőeszközök kalibrálása és a csatlakozások hatással lehetnek az eredményekre.
+**Alkatrész variációk:** Az ellenállások tűrései miatt az elméleti és mért értékek eltérhetnek.
+**Feszültség és áram mérések:** A mérési eszközök pontossága, mint a jelgenerátor és az oszcilloszkóp, befolyásolhatják az eredményeket.
+Az eredmények összehasonlítása segít a mérési környezet és eszközök hatásainak megértésében.
 
 ## 8. Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
