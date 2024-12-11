@@ -18,7 +18,12 @@
 - **R1:** 0 Ω 
 - **R2:** 0 Ω 
 
-## 2. Mérési eredmények
+
+## 2. Kapcsolási rajz 
+
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/kapcsolasi rajz.svg"/>
+
+## 3. Mérési eredmények
 
 | Mérési paraméter              | Eredmény            |
 |-------------------------------|---------------------|
@@ -27,7 +32,7 @@
 | **Átviteli arány**             | 0 dB                |
 | **Csillapítás**                | 6 dB                |
 
-## 3. Eredmények összehasonlítása
+## 4. Eredmények összehasonlítása
 
 A mért eredmények és a számított értékek az alábbiak szerint alakultak:
 
@@ -37,11 +42,11 @@ A mért eredmények és a számított értékek az alábbiak szerint alakultak:
 
 A mérések során elért eredmények megerősítik, hogy a T-hálózat megfelelően működik és a kívánt csillapítást biztosítja.
 
-## 4. Megjegyzések
+## 5. Megjegyzések
 
 - **Nehezen megoldható problémák:** A mérések során nem tapasztaltunk jelentős hibákat, azonban a kimeneti impedancia mérésénél előfordult némi ingadozás az oszcilloszkóp kijelzőjén, amit valószínűleg a mérési környezet (pl. vezetékek hossza) okozott.
   
 - **Tanulságok:** A kísérlet során megtanultuk, hogyan kell megfelelően beállítani az impedanciát egy T-hálózat segítségével, és hogyan végezhetők el az alapvető mérések egy áramkörben. Az elméleti számításokat a mérések megerősítették, és a gyakorlatban is jól alkalmazhatók voltak.
 
-## 5. Aláírás
+## 6. Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
