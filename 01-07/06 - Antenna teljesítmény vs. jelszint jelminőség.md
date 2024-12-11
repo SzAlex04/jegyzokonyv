@@ -181,7 +181,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
 
 ---
 
-## Mérési jegyzőkönyv lezárása
+## 7. Mérési jegyzőkönyv lezárása
 
 A mérések sikeresen zárultak, az eredmények alátámasztják a különböző antennák közötti teljesítménybeli eltéréseket és a frekvencia hatását a jelminőségre.
 
