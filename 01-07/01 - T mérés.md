@@ -4,9 +4,9 @@
 
 **Mérés helyszíne**: Labor V3
 
-**Mérés tárgya**: Frekvencia vs. moduláció mérés
+**Mérés tárgya**: T Ellenállás-hálózat
 
-**Mérés időpontja**: 2024.12.04.
+**Mérés időpontja**: 2024.12.11.
 
 **Felelős személy**: Szabó Alex Máté
 
