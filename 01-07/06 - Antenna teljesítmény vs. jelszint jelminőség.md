@@ -133,7 +133,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  
 <details>
     <summary>ISKRA P2845</summary>
-  <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/iskra-p-2845_6018d271.jpg"/>
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/ISKRA%20P2845%20UHF.png"/>
 <br>
 2.kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0002.bmp"/>
