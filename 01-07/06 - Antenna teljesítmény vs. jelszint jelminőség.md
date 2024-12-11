@@ -149,7 +149,7 @@ Itt látható a grafikon, amely az antennák teljesítménymutatóit (jelszint, 
  <br>
 <details>
     <summary>IKUSI FLASHD C48</summary>
-    <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/3913-1.png"/>
+    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/01-07/IKUSI%20FlasHD%20C48%20antenna.png"/>
    <br>
    3. kép: 490MHz
     <img src="https://raw.githubusercontent.com/1SzatmariAndras6/TAVKOZLES/refs/heads/main/JEGYZOKONYV/06.%20Antenna%20jelszint/its_snapshot_0003.bmp"/>
