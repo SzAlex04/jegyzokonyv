@@ -13,3 +13,21 @@
 **Csoport**: 13.E Gyak2
 
 **Cél**:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Aláírás
+**Jegyzőkönyv vezetője**: Szabó Alex
