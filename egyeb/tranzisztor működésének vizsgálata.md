@@ -15,10 +15,9 @@ A mérés célja a tranzisztorok alapvető működésének és jellemzőinek meg
 
 ## 2. Használt eszközök
 
-- **Tranzisztor**: 90 típusú NPN tranzisztor
+- **Tranzisztor**: BC 639 típusú NPN tranzisztor áramfeszültség 90
 - **Tápegység**: DC 0-30 V
 - **Multiméter**: Digitális multiméter (feszültség és áram mérésére)
-- **Oscilloszkóp**: Jelek vizsgálata és áramkör jellemzés
 - **Ellenállások**: 220 Ω (kis ellenállás), 1,47 kΩ (nagy ellenállás)
 - **Kábelek, csatlakozók**: Az áramkör összekötésére
 
@@ -83,12 +82,16 @@ A tranzisztor működését különböző üzemmódokban vizsgáljuk, például:
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/IMG_20250108_090321.jpg"/>
 </details>
 
-### 4.5 Áramkör virtuáliasan és megépítve
+Multiméterrel megmérjük a tranzisztor áramfeszültségét.
+
+### 4.5 Kapcsolási rajz
 
 <br>
 <details>
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/tranzisztor%20működésének%20vizsgálata.png"/>
 </details>
+
+### 4.6 Áramkör megépítve
 
 <br>
 <details>
@@ -100,7 +103,7 @@ A tranzisztor működését különböző üzemmódokban vizsgáljuk, például:
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/mainegyeb/IMG_20250108_091735.jpg"/>
 </details>
 
-### 4.6 Táblázat és grafikon
+### 4.7 Táblázat és grafikon
 
 <br>
 <details>
