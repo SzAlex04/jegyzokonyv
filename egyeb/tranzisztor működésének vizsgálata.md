@@ -1,10 +1,11 @@
-Mérési Jegyzőkönyv
-Mérés helye: Miskolci SZC Kandó Kálmán Informatikai Technikum
+### Mérési Jegyzőkönyv
 
-Mérés helyszíne: Labor V3
+**Mérés helye**: Miskolci SZC Kandó Kálmán Informatikai Technikum 
 
-Mérés tárgya: T Ellenállás-hálózat
+**Mérés helyszíne**: Labor V3
 
-Mérés időpontja: 2024.12.11.
+**Mérés tárgya**: Tranzisztor működésének vizsgálata
 
-Felelős személy: Szabó Alex Máté
+**Mérés időpontja**: 2025.01.08
+
+**Felelős személy**: Szabó Alex Máté
