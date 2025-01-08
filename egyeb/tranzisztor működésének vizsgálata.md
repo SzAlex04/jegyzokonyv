@@ -78,12 +78,34 @@ A tranzisztor működését különböző üzemmódokban vizsgáljuk, például:
 
 ### 4.4 Tranzisztor mérése
 
+<br>
+<details>
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/IMG_20250108_090321.jpg"/>
+</details>
 
-### 4.5 Áramkör készre építése
+### 4.5 Áramkör virtuáliasan és megépítve
 
+<br>
+<details>
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/tranzisztor%20működésének%20vizsgálata.png"/>
+</details>
+
+<br>
+<details>
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/IMG_20250108_091726.jpg"/>
+</details>
+
+<br>
+<details>
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/mainegyeb/IMG_20250108_091735.jpg"/>
+</details>
 
 ### 4.6 Táblázat és grafikon
 
+<br>
+<details>
+<img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/táblázat%20és%20grafikon.png"/>
+</details>
 
 ## 5. Következtetések
 
