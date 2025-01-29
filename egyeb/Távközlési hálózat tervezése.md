@@ -104,27 +104,44 @@
 
 ## 8. Mikrotik nRay 60GHz antennapár:
 
- **Mikrotik nRAy 60Ghz**
    <br>
    <details>
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/Mikrotik_nRAYG-60_antenna.jfif"/>
    </details>
  
 ## 8.1 MASTER antenna konfigurálása:
-
  
+ **192.168.88.2**
 
+ **Bejelentkezés:**
+ **Felhasználónév:** admin
+ **jelszó:** antennán
+
+ Beállítjuk az antennát **MASTER** módba, ezután ellenőrizzük az ip-t, hogy a **SLAVE** antenna tudjon csatlakozni.
+ **DÁTUM ÉS IDŐ BEÁLLÍTÁSA!**
 
 ## 8.2 SLAVE antenna konfigurálása:
 
+ **192.168.88.3**
 
+ A fentebbi műveleteket megismételjük, az antennát beállítjuk **SLAVE** módba.
+ Ellenőrizzük a kapcsolat minőségét: **WIRELESS 60G STATUS**.
+ **DÁTUM ÉS IDŐ BEÁLLÍTÁSA!**
 
-
-
-
-
-
-
+ **Frequency:** 58320
+ **Signal:** 90
+ **MCS:** 7
+ **PHY rate:** 1925.0 Mbps
+ **RSSI:** -49 dB
+ **TX Sector:** 60 
+ **TX Sector info:** right 04, up 0,6
+ **RX Sector:** 96
+ **Distance:** 2,18 m
+ **Tx/Rx Rate** 42,8 kbps
+ **Tx/Rx Packet Rate** 14 p/s
+ **FP Tx/Rx Rate** 42.8 kbps
+ **Fp Tx/Rx Packet Rate** 14 p/s
+ **Tx/Rx Bytes** 16.4 MiB
 
 
 
