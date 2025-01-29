@@ -70,11 +70,10 @@
   **APN:** internet 
   **Current Operator:** Telekom 
   **Data Class:** LTE 
-  
-| **RSSI**  | -54 dBm  | 
-| **RSRP**  | -81 dBm  | 
-| **SINR**  | 18 dB    | 
-| **RSRQ**  | -10.0 dB | 
+  **RSSI:** -54 dBm 
+  **RSRP:** -81 dBm 
+  **SINR:** 18 dB    
+  **RSRQ:** -10.0 dB 
 
 **Internet** 
 
