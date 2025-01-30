@@ -16,18 +16,13 @@
  
 ## 2. Használt eszközök 
 **Mikrotik LHG18 LTE** 
-
 **Mikrotik nRay 60GHz Master** 
-
 **Mikrotik nRay 60GHz Slave** 
-
 **Router (AP mód)** 
-
-**Switch** 
-
+**Switch (opcionális)** 
 **Kliens laptop** 
 
-**router** 
+**Router** 
 <br> 
 <details> 
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/asus_soho_router.jfif"/> 
