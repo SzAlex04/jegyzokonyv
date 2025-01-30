@@ -11,10 +11,10 @@
 
 **Felelős személy**: Szabó Alex Máté
 
-## 1. Cél: 
+## 1. Cél 
  Egy működő távközlési hálózat kiépítése Mikrotik antennák segítségével. 
  
-## 2. Használt eszközök:
+## 2. Használt eszközök 
 **Mikrotik LHG18 LTE** 
 **Mikrotik nRay 60GHz Master** 
 **Mikrotik nRay 60GHz Slave** 
@@ -28,7 +28,7 @@
 <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/asus_soho_router.jfif"/> 
 </details> 
 
-## 3. IP-cím kiosztás: 
+## 3. IP-cím kiosztás 
 **Mikrotik LHG18 LTE**: 192.168.88.1 
 **Mikrotik nRay 60GHz Master**: 192.168.88.2 
 **Mikrotik nRay 60GHz Slave**: 192.168.88.3 
@@ -36,26 +36,26 @@
 **Switch**: 192.168.88.254 
 **Kliens laptop**: 192.168.88.100-250 (DHCP-ből) 
 
-## 4. Topológia: 
+## 4. Topológia 
 
  <br> 
  <details> 
  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/topologia.drawio.png"/> 
  </details> 
 
-## 5. Laptop: 
+## 5. Laptop  
   Belépünk admin felhasználóval a laptopba. 
   **felhasználó: V3-XX\admin** 
   **jelszó: mzKvsd** 
 
- ## 6. Mikrotik LHG18 LTE: 
+ ## 6. Mikrotik LHG18 LTE  
  
  <br> 
  <details> 
  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/Mikrotik%20_LHG18_LTE_antenna.jfif"/> 
  </details> 
 
- ## 6.1 resetelése: 
+ ## 6.1 resetelése 
  
   **Csatlakozz a készülékhez:** Csatlakoztass egy számítógépet vagy okostelefont az LHG 18 LTE-hez Wi-Fi-n keresztül, vagy Ethernet kábellel. 
   **Bejelentkezés:** A bejelentkezési képernyőn add meg a felhasználónevet és jelszót. Alapértelmezetten a felhasználónév: admin, a jelszó pedig üres (nem kell beírni). 
@@ -65,7 +65,7 @@
   **Újraindítás:** A készülék automatikusan újraindul, és a gyári beállításokkal fog elindulni. 
   **Ugyan ez a folyamat az nRay antennáknál is!** 
   
-## 6.2 konfigurálási adatok: 
+## 6.2 konfigurálási adatok  
 
   **APN:** internet 
   **Current Operator:** Telekom 
@@ -87,7 +87,7 @@
 
  DHCP Server Range: 192.168.88.100-192.168.88.250 
 
-## 7. LTE konfigurálása: 
+## 7. LTE konfigurálása  
 
  Nyisson meg egy böngészőt és lépjen be az LTE antenna konfig felületére: 
 
@@ -99,14 +99,14 @@
  **NAT:** 255.255.255.0 
  A laptop ip címét át kell állítani **DHCP-re**, utána ping teszt következik! **(8.8.8.8)** 
 
-## 8. Mikrotik nRay 60GHz antennapár: 
+## 8. Mikrotik nRay 60GHz antennapár  
 
    <br> 
    <details> 
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/Mikrotik_nRAYG-60_antenna.jfif"/> 
    </details> 
  
-## 8.1 MASTER antenna konfigurálása: 
+## 8.1 MASTER antenna konfigurálása  
  
  **192.168.88.2** 
 
@@ -117,7 +117,7 @@
  Beállítjuk az antennát **MASTER** módba, ezután ellenőrizzük az ip-t, hogy a **SLAVE** antenna tudjon csatlakozni. 
  **DÁTUM ÉS IDŐ BEÁLLÍTÁSA!** 
 
-## 8.2 SLAVE antenna konfigurálása: 
+## 8.2 SLAVE antenna konfigurálása  
 
  **192.168.88.3** 
 
@@ -140,12 +140,12 @@
  **Fp Tx/Rx Packet Rate** 14 p/s 
  **Tx/Rx Bytes** 16.4 MiB 
 
-## 9. Tesztelés:
+## 9. Tesztelés 
 
- A sávszélesség tesztelésére használjuk az **iperf** szoftvert és rögzítjük a kapott eredményeket.
- Elvégezzük a ping és traceroute teszteket a hálózati kapcsolatok ellenőrzésére.
- Ha van még hiba, akkor azt megkeressük és elhárítjuk.
+ A sávszélesség tesztelésére használjuk az **iperf** szoftvert és rögzítjük a kapott eredményeket. 
+ Elvégezzük a ping és traceroute teszteket a hálózati kapcsolatok ellenőrzésére. 
+ Ha van még hiba, akkor azt megkeressük és elhárítjuk. 
 
-## 10. Aláírás:
+## 10. Aláírás 
 
- **Jegyzőkönyv vezetője**: Szabó Alex
+ **Jegyzőkönyv vezetője**: Szabó Alex 
