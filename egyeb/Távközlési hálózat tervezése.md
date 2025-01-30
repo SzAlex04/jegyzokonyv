@@ -140,12 +140,21 @@
  **Fp Tx/Rx Packet Rate** 14 p/s 
  **Tx/Rx Bytes** 16.4 MiB 
 
-## 9. Tesztelés 
+## 9. Router
+
+ Megnyitunk egy böngészőt és elérjük a megfelelő ip címet. 
+ Beállítjuk a WiFi és a router adminisztrációját. 
+ **SSID/felhasználó:** GazdaXX 
+ **jelszó:** G1234567 
+ A routert AP módba kapcsoljuk, az **IP cím: 192.88.XXX** 
+ **Figyeljünk a többi opcionális beállításra és az átjáróra!** 
+
+## 10. Tesztelés 
 
  A sávszélesség tesztelésére használjuk az **iperf** szoftvert és rögzítjük a kapott eredményeket. 
  Elvégezzük a ping és traceroute teszteket a hálózati kapcsolatok ellenőrzésére. 
  Ha van még hiba, akkor azt megkeressük és elhárítjuk. 
 
-## 10. Aláírás 
+## 11. Aláírás 
 
  **Jegyzőkönyv vezetője**: Szabó Alex 
