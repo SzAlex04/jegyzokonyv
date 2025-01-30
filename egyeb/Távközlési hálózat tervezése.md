@@ -34,7 +34,7 @@
 **Mikrotik nRay 60GHz Slave**: 192.168.88.3 
 **Router (AP mód)**: 192.168.88.4 
 **Switch**: 192.168.88.254 
-**Kliens laptop**: 192.168.88.100-250 (DHCP-ből) 
+**Kliens laptop**: 192.168.88.100-250 
 
 ## 4. Topológia 
 
