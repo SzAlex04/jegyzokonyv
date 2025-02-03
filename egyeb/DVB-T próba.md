@@ -13,7 +13,6 @@
 ## 1. Használt eszközök 
 
  **ISKRA P2845 logper antenna**
- 
  <br> 
  <details> 
  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ISKRA%20P2845%20UHF%20Antenna.png"/> 
