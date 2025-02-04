@@ -6,7 +6,7 @@
 
 **Mérő műszerek**: METEK HD - SV:1.17.2002 - SN: 2109010000052  
 
-**Felelős személy**: Szabó Alex Máté
+**Felelős személy**: Szabó Alex
 
 **Cél**: A DVB-T jel minőségi paramétereinek mérése.  
 
