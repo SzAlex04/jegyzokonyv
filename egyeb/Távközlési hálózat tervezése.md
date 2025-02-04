@@ -68,12 +68,19 @@
 ## 6.2 konfigurálási adatok  
 
   **APN:** internet 
+  
   **Current Operator:** Telekom 
+  
   **Data Class:** LTE 
+  
   **RSSI:** -54 dBm 
+  
   **RSRP:** -81 dBm 
+  
   **SINR:** 18 dB    
+  
   **RSRQ:** -10.0 dB 
+  
 
 **Internet** 
 
@@ -132,16 +139,27 @@
  **MCS:** 7 
  
  **PHY rate:** 1925.0 Mbps 
+ 
  **RSSI:** -49 dB 
+ 
  **TX Sector:** 60  
+ 
  **TX Sector info:** right 04, up 0,6 
+ 
  **RX Sector:** 96 
+ 
  **Distance:** 2,18 m 
+ 
  **Tx/Rx Rate** 42,8 kbps 
+ 
  **Tx/Rx Packet Rate** 14 p/s 
+ 
  **FP Tx/Rx Rate** 42.8 kbps 
+ 
  **Fp Tx/Rx Packet Rate** 14 p/s 
+ 
  **Tx/Rx Bytes** 16.4 MiB 
+ 
 
 ## 9. Router
 
