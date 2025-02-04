@@ -8,7 +8,7 @@
 
 **Mérés időpontja**: 2025.02.03
 
-**Felelős személy**: Szabó Alex Máté
+**Felelős személy**: Szabó Alex
 
 ## 1. Használt eszközök 
 
