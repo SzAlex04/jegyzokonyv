@@ -5,11 +5,11 @@
 
 **Mérés helyszíne**: Labor V3
 
-**Mérés tárgya**: Tranzisztor működésének vizsgálata
+**Mérés tárgya**: Távközlési hálózat tervezése
 
 **Mérés időpontja**: 2025.01.08
 
-**Felelős személy**: Szabó Alex Máté
+**Felelős személy**: Szabó Alex 
 
 ## 1. Cél 
  Egy működő távközlési hálózat kiépítése Mikrotik antennák segítségével. 
