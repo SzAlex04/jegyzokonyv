@@ -126,8 +126,11 @@
  **DÁTUM ÉS IDŐ BEÁLLÍTÁSA!** 
 
  **Frequency:** 58320 
+ 
  **Signal:** 90 
+ 
  **MCS:** 7 
+ 
  **PHY rate:** 1925.0 Mbps 
  **RSSI:** -49 dB 
  **TX Sector:** 60  
