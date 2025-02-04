@@ -8,8 +8,7 @@
 
 **Mérés időpontja**: 2024.12.09.
 
-**Felelős személy**: Szabó Alex Máté
-
+**Felelős személy**: Szabó Alex
 **Csoport**: 13.E Gyak2
 
 ## Cél
