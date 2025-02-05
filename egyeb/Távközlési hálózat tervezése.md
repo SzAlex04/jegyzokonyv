@@ -68,11 +68,17 @@
  ## 6.1 resetelése 
  
   **Csatlakozz a készülékhez:** Csatlakoztass egy számítógépet vagy okostelefont az LHG 18 LTE-hez Wi-Fi-n keresztül, vagy Ethernet kábellel. 
+  
   **Bejelentkezés:** A bejelentkezési képernyőn add meg a felhasználónevet és jelszót. Alapértelmezetten a felhasználónév: admin, a jelszó pedig üres (nem kell beírni). 
+  
   **Navigálás a beállításokhoz:** A bal oldali menüben keresd meg a System menüpontot, majd kattints rá. 
+  
   **Gyári visszaállítás:** Az új menüben válaszd a Reset Configuration (Visszaállítás) lehetőséget. 
+  
   **Visszaállítás megerősítése:** Kattints a „Yes” (Igen) gombra a megerősítéshez, hogy visszaállítsd a gyári beállításokat. 
+  
   **Újraindítás:** A készülék automatikusan újraindul, és a gyári beállításokkal fog elindulni. 
+  
   **Ugyan ez a folyamat az nRay antennáknál is!** 
   
 ## 6.2 konfigurálási adatok  
@@ -109,11 +115,17 @@
  Nyisson meg egy böngészőt és lépjen be az LTE antenna konfig felületére: 
 
  **Cím:** http://192.168.188.1 
+ 
  **Felhasználónév:** admin 
+ 
  **jelszó:** antennán 
 
- Konfigurálásnál figyelni kell a **dátum és idő** beállítására. Az eszközt be kell állítani a **192.168.88.1** ip címre, **DHCP* szerveren az antenna! **192.168.88.100-250** 
+ Konfigurálásnál figyelni kell a **dátum és idő** beállítására. Az eszközt be kell állítani a **192.168.88.1** ip címre, **DHCP* szerveren az antenna! 
+ 
+ **192.168.88.100-250** 
+ 
  **NAT:** 255.255.255.0 
+ 
  A laptop ip címét át kell állítani **DHCP-re**, utána ping teszt következik! **(8.8.8.8)** 
 
 ## 8. Mikrotik nRay 60GHz antennapár  
@@ -128,10 +140,13 @@
  **192.168.88.2** 
 
  **Bejelentkezés:** 
+ 
  **Felhasználónév:** admin 
+ 
  **jelszó:** antennán 
 
  Beállítjuk az antennát **MASTER** módba, ezután ellenőrizzük az ip-t, hogy a **SLAVE** antenna tudjon csatlakozni. 
+ 
  **DÁTUM ÉS IDŐ BEÁLLÍTÁSA!** 
 
 ## 8.2 SLAVE antenna konfigurálása  
@@ -139,7 +154,9 @@
  **192.168.88.3** 
 
  A fentebbi műveleteket megismételjük, az antennát beállítjuk **SLAVE** módba. 
+ 
  Ellenőrizzük a kapcsolat minőségét: **WIRELESS 60G STATUS**. 
+ 
  **DÁTUM ÉS IDŐ BEÁLLÍTÁSA!** 
 
  **Frequency:** 58320 
@@ -174,16 +191,23 @@
 ## 9. Router
 
  Megnyitunk egy böngészőt és elérjük a megfelelő ip címet. 
+ 
  Beállítjuk a WiFi és a router adminisztrációját. 
+ 
  **SSID/felhasználó:** GazdaXX 
+ 
  **jelszó:** G1234567 
+
  A routert AP módba kapcsoljuk, az **IP cím: 192.88.XXX** 
+ 
  **Figyeljünk a többi opcionális beállításra és az átjáróra!** 
 
 ## 10. Tesztelés 
 
  A sávszélesség tesztelésére használjuk az **iperf** szoftvert és rögzítjük a kapott eredményeket. 
+ 
  Elvégezzük a ping és traceroute teszteket a hálózati kapcsolatok ellenőrzésére. 
+ 
  Ha van még hiba, akkor azt megkeressük és elhárítjuk. 
 
 ## 11. Aláírás 
