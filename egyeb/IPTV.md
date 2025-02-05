@@ -4,7 +4,7 @@
 
 **Mérés helyszíne**: Labor V3
 
-**Mérés tárgya**: DVB-T
+**Mérés tárgya**: IPTV
 
 **Mérés időpontja**: 2025.02.03
 
@@ -137,108 +137,59 @@
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ddddsdas.png"/> 
   </details>  
   
- **INPUT 1:** 
+ **TS OUTOK:**
 
-  **Tuner:** DVB-T/T2
-
-  **Frequency:** 586
-
-  **Channel:** 35
-
-  **Bandwidth:** 8 MHz
-
-  **Bit rate:** 22394 Kbps
-
-  **Multiplex B**
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ggdfg.png"/> 
+  </details>  
  
- **INPUT 2:**
-
-  **Tuner:** DVB-T/T2
-
-  **Frequency:** 634  
-
-  **Channel:** 41
-
-  **Bandwidth:** 8 MHz
-
-  **Bit rate:** 8043 Kbps
-
-  **Miskolc Városi TV**
-
- **INPUT 3:**
-
-  **Tuner:** DVB-T/T2
-
-  **Frequency:** 666
-
-  **Channel:** 45
-
-  **Bandwidth:** 8 MHz
-
-  **Bit rate:** 22394 Kbps
-
-  **Multiplex A**
-  
- **INPUT 4:**
-
-  **Tuner:** DVB-T/T2
-
-  **Frequency:** 690
-
-  **Channel:** 48
-
-  **Bandwidth:** 8 MHz
-
-  **Bit rate:** 27400 Kbps
-
-  **Multiplex E**
-  
- **TS OUT 1:** 87%
-
- **TS OUT 2:** 63%
-
- **TS OUT 3:** 1%
-
- **TS OUT 4:** 2%
-
  **multicast IP:** 239.1.1.1
 
  **range:** 39
 
  **protokoll:** UDP
 
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/multicast-attacker-sending-traffic.png"/> 
+  </details> 
+
 ## 7. Mérések és Eredmények
 
-### 1. **Jelerősség**  
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/its_snapshot_0001.bmp"/> 
+  </details> 
 
- **Jelszint**: 85 dBμV
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/its_snapshot_0002.bmp"/> 
+  </details> 
 
-### 2. **Jel-Zaj Viszony (SNR)**  
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/its_snapshot_0003.bmp"/> 
+  </details> 
 
- **SNR**: 32 dB
+## 8. Működő iptv VLC-be
 
-### 3. **Bit Error Rate (BER)**  
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/fsdsdf.png"/> 
+  </details> 
 
- **BER**: 0.00005
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/sdfsdfsdf.png"/> 
+  </details>
 
-### 4. **Modulation Error Ratio (MER)**  
+## 9. IPTV promtban
 
- **MER**: 37 dB
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/fdgfgdh.png"/> 
+  </details>
 
-### 5. **Csillapítás**  
-
- **Csillapítás**: 3 dB
-
-### 6. **Multiplex Adatok**  
-
- **Frekvencia**: 474 MHz  
- 
- **Polarizáció**: Vertikális (V)  
- 
- **Szimbólumráta**: 6900 kSym/s  
- 
- **FEC**: 3/4
-
-
-## . Aláírás
+## 10. Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
