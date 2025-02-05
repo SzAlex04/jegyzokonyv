@@ -27,11 +27,20 @@
   </details> 
  
  **Viper 4K set-top box**
+ 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/amiko_viper_4k_v30_1-550x550w.png"/> 
   </details> 
+
+ **Lemco fejállomás**
  
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/lemco.jfif"/> 
+  </details>
+   
+  
  **jelosztó**
  
  **koaxiális kábelek**
@@ -63,8 +72,16 @@
  **Pozíció**: 233° délnyugati irány, 20° dőlésszög
  
  **Antenna Polarizáció**: Horizontális
+ 
+ ## 4. Időjárási Körülmények
 
-## 4. Mérések és Eredmények
+ **időjárás:** 5°C
+
+ **Szélsebesség**: 10 km/h
+ 
+ **Megjegyzés**: Nincs csapadék
+
+## 5. Mérések és Eredmények
 
 ### 1. **Jelerősség**  
 
@@ -82,11 +99,11 @@
 
  **MER**: 37 dB
 
-### 5. **Csillapítás**  
+### 6. **Csillapítás**  
 
  **Csillapítás**: 3 dB
 
-### 6. **Multiplex Adatok**  
+### 7. **Multiplex Adatok**  
 
  **Frekvencia**: 474 MHz  
  
@@ -96,13 +113,6 @@
  
  **FEC**: 3/4
 
-## . Időjárási Körülmények
-
- **időjárás:** 5°C
-
- **Szélsebesség**: 10 km/h
- 
- **Megjegyzés**: Nincs csapadék
 
 ## . Aláírás
 **Jegyzőkönyv vezetője**: Szabó Alex
