@@ -53,7 +53,7 @@
  
   <br> 
   <details> 
-  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/sugfrekv.png"/> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/zsatar.png"/> 
   </details> 
 
  Azért mérünk ezen a csatornán, mert ez a leggyengébb.
@@ -125,6 +125,18 @@
  
  **óra beállítása:** időzona Budapest/Bécs
 
+ **INPUTOK:**
+
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/dddd.png"/> 
+  </details> 
+
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ddddsdas.png"/> 
+  </details>  
+  
  **INPUT 1:** 
 
   **Tuner:** DVB-T/T2
