@@ -30,10 +30,15 @@
 
 ## 3. IP-cím kiosztás 
 **Mikrotik LHG18 LTE**: 192.168.88.1 
+
 **Mikrotik nRay 60GHz Master**: 192.168.88.2 
+
 **Mikrotik nRay 60GHz Slave**: 192.168.88.3 
+
 **Router (AP mód)**: 192.168.88.4 
+
 **Switch**: 192.168.88.254 
+
 **Kliens laptop**: 192.168.88.100-250 
 
 ## 4. Topológia 
