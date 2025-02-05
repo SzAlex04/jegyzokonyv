@@ -172,7 +172,7 @@
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/its_snapshot_0003.bmp"/> 
   </details> 
 
-## 8. Működő iptv VLC-be
+## 8. Működő IPTV VLC-be
 
   <br> 
   <details> 
