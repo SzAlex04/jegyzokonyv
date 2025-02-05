@@ -77,7 +77,7 @@
  
  ## 4. Időjárási Körülmények
 
- **időjárás:** 5°C
+ **időjárás:** 1°C
 
  **Szélsebesség**: 10 km/h
  
@@ -101,7 +101,8 @@
 
  **sebesség mérés:** feltöltés, letöltés 93, a hálózat 100/100-as
 
- **portok:**  LAN1 Lemco control 1Gbps
+ **portok:**  
+              LAN1 Lemco control 1Gbps
 
               LAN2 üres
 
