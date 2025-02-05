@@ -186,7 +186,7 @@
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/sdfsdfsdf.png"/> 
   </details>
 
-## 9. IPTV promtban
+## 9. IPTV promtba
 
   <br> 
   <details> 
