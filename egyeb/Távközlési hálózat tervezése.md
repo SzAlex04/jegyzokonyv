@@ -16,10 +16,15 @@
  
 ## 2. Használt eszközök 
 **Mikrotik LHG18 LTE** 
+
 **Mikrotik nRay 60GHz Master** 
+
 **Mikrotik nRay 60GHz Slave** 
+
 **Router (AP mód)** 
+
 **Switch (opcionális)** 
+
 **Kliens laptop** 
 
 **Router** 
