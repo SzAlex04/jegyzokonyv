@@ -99,16 +99,17 @@
  
  **jelszó:** admin12345678
 
- **sebesség mérés:** feltöltés, letöltés 93, a hálózat 100/100-as
+ **sebesség mérés:** feltöltés, letöltés  93, a hálózat 100/100-as
 
- **portok:**  
-              LAN1 Lemco control 1Gbps
+ **portok:** 
+ 
+  LAN1 Lemco control 1Gbps
 
-              LAN2 üres
+  LAN2 üres
 
-              LAN3 Lemco ip stream 1Gbps
+  LAN3 Lemco ip stream 1Gbps
 
-              LAN4 set-top box 100Mbps
+  LAN4 set-top box 100Mbps
 
  **új IP cím:** 192.168.1.1
 
