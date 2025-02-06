@@ -58,7 +58,7 @@
 
  Azért mérünk ezen a csatornán, mert ez a leggyengébb.
  
- Amelyik csatornán mgjelenik a kép, az a csatorna ingyenes.
+ A frekvencia táblázat CAS részénél ahol x van, az ingyenes adás.
  
 ## 3. Antenna Beállítások
 
