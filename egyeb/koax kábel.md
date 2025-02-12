@@ -19,13 +19,16 @@ Jól csillapító koax kábel elkészítése.
 **koax kábel** 
 
 **vágó** 
-
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/vago.jpg"/> 
   </details> 
 
 **METEK HDD (csillapítás méréshez)** 
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/METEKHD.png"/> 
+  </details>
 
  ## 2. Kábel készítés
 
