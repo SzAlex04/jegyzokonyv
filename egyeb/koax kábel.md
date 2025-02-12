@@ -12,7 +12,7 @@
 
 ## 1. Cél
 
-Jól csillapító koax kábel elkészítése.
+Alacsony csillapítású koax kábel elkészítése.
 
 ## 2. Használt eszközök
 
