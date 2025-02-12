@@ -194,4 +194,5 @@
   </details>
 
 ## 10. Aláírás
+
 **Jegyzőkönyv vezetője**: Szabó Alex
