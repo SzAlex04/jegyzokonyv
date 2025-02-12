@@ -35,14 +35,12 @@ Jól csillapító koax kábel elkészítése.
   Beállítjuk a vágót, majd levágjuk a kábel végét, ezután rátekerjük a csatlakozót.
 
   **kész kábel oldalról**
-  
    <br> 
    <details> 
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/koaxveg.jpg"/> 
    </details> 
 
   **kész kábel felülről**
-
    <br> 
    <details> 
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/koaxveg2.jpg"/> 
@@ -57,7 +55,6 @@ Jól csillapító koax kábel elkészítése.
    Ez után késznek tekinhtető a koax kábel.
    
  **alacsony frekvencián**
- 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/alacsonyfrekicsillapitas.jpg"/> 
@@ -66,7 +63,6 @@ Jól csillapító koax kábel elkészítése.
  **90 dB - 29,8 dB = 60,2 dB**
 
  **magas frekvencián**
-
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/magasfrekicsillapitas.jpg"/> 
