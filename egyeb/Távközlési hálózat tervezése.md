@@ -47,6 +47,7 @@
 **Kliens laptop**: 192.168.88.100-250 
 
 ## 4. Topológia 
+
  <br> 
  <details> 
  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/topologia.drawio.png"/> 
@@ -58,6 +59,7 @@
   **jelszó: mzKvsd** 
 
  ## 6. Mikrotik LHG18 LTE  
+ 
  <br> 
  <details> 
  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/Mikrotik%20_LHG18_LTE_antenna.jfif"/> 
