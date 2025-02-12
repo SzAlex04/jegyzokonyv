@@ -52,15 +52,24 @@ Jól csillapító koax kábel elkészítése.
    A csillapítás leméréshez **METEK HDD-t** használunk, innen tudjuk leolvasni, hogy hány decibelt csillapít a kábel.
 
    Ez után késznek tekinhtető a koax kábel.
-
-   **90 dB - 87,3 dB = 2,7 dB** - ennyit csillapít a kábel
-  
- **csillapítás mérés**
+   
+ **alacsony frekvencián**
  
   <br> 
   <details> 
-  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/csillapitas.jpg"/> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/alacsonyfrekicsillapitas.jpg"/> 
   </details> 
+
+ **90 dB - 29,8 dB = 60,2 dB**
+
+ **magas frekvencián**
+
+  <br> 
+  <details> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/magasfrekicsillapitas.jpg"/> 
+  </details> 
+
+ **90 dB - 89,1 dB = 0,9 dB**
 
   ## 4. Aláírás
   
