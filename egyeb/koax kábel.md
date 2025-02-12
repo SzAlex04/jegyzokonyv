@@ -49,7 +49,7 @@ Jól csillapító koax kábel elkészítése.
 
    Miután kész vagyunk a csatlakozó feltekerésével megmérjük, hogy mennyit csillapít a **koax kábelünk** minél közelebb vagyunk a 90 dB-hez annál jobb a kábel.
 
-   A csillapítás leméréshez **METEK HDD-t** használunk, innen tudjuk leolvasni, hogy hány decibelt csillapít a kábel.
+   A csillapítás leméréshez **METEK HDD-t** használunk, innen tudjuk leolvasni, hogy hány **dB-t** csillapít a kábel.
 
    Ez után késznek tekinhtető a koax kábel.
    
