@@ -13,28 +13,24 @@
 ## 1. Használt eszközök 
 
  **ISKRA P2845 logper antenna**
- 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ISKRA%20P2845%20UHF%20Antenna.png"/> 
   </details> 
  
  **METEK HDD digitális TV jelmérő**
- 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/METEKHD.png"/> 
   </details> 
  
- **Viper 4K set-top box**
- 
+ **Viper 4K set-top box** 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/amiko_viper_4k_v30_1-550x550w.png"/> 
   </details> 
 
  **Lemco fejállomás**
- 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/lemco.jfif"/> 
@@ -50,7 +46,6 @@
 ## 2. Csatorna
 
  **Miskolc Városi TV csatorna**
- 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/zsatar.png"/> 
@@ -63,7 +58,6 @@
 ## 3. Antenna Beállítások
 
  **ISKRA P2845 LOGPER antenna**
- 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ISKRA%20P2845%20UHF%20Antenna.png"/> 
@@ -128,7 +122,6 @@
  **óra beállítása:** időzona Budapest/Bécs
 
  **INPUTOK:**
-
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/dddd.png"/> 
@@ -140,7 +133,6 @@
   </details>  
   
  **TS OUTOK:**
-
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/ggdfg.png"/> 
@@ -151,7 +143,6 @@
  **range:** 39
 
  **protokoll:** UDP
-
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/multicast-attacker-sending-traffic.png"/> 
