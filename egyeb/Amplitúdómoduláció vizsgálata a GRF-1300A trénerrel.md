@@ -12,6 +12,9 @@
 
 ## 1. Cél
 
+ Amplitúdómoduláció előállítása a GRF-1300A segítségével, spektrumanalizátorral az AM jel spektrumának, jelszintjének, sávszélességének és modulációs mélységének 
+ megvizsgálása.
+
 ## 2. Felhasznált eszközök
 
  **Gwinstek GRF-1300A RF tréner**
@@ -20,7 +23,13 @@
 
  **Rohde & Schwarz HMO1002**
 
+## 3. Bekötés
+  <br> 
+  <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/bekotes.jpg"/> 
 
+## 4. Tréner beállítása
+
+  **1. mérés 
 
 
 
