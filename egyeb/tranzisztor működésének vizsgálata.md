@@ -8,7 +8,7 @@
 
 **Mérés időpontja**: 2025.01.08
 
-**Felelős személy**: Szabó Alex
+**Felelős személy**: Sándor Péter
 
 ## 1. Cél
 A mérés célja a tranzisztorok alapvető működésének és jellemzőinek megértése. A vizsgálat során megfigyeljük a tranzisztor különböző működési pontjait, beleértve az erősítést, a feszültség-áram jellemzőket és az áramköri viselkedést.
