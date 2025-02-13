@@ -8,7 +8,7 @@
 
 **Mérés időpontja**: 2025.02.12
 
-**Felelős személy**: Szabó Alex
+**Felelős személy**: Sándor Péter
 
 ## 1. Cél
 
