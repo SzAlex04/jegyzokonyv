@@ -26,9 +26,7 @@ Alacsony csillapítású koax kábel elkészítése.
 
 **METEK HDD (csillapítás méréshez)** 
   <br> 
-  <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/METEKHD.png"/> 
-  </details>
 
  ## 2. Kábel készítés
 
@@ -36,15 +34,12 @@ Alacsony csillapítású koax kábel elkészítése.
 
   **kész kábel oldalról**
    <br> 
-   <details> 
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/koaxveg.jpg"/> 
-   </details> 
+   
 
   **kész kábel felülről**
    <br> 
-   <details> 
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/koaxveg2.jpg"/> 
-   </details> 
   
  ## 3. Kábel lemérése
 
@@ -56,17 +51,13 @@ Alacsony csillapítású koax kábel elkészítése.
    
  **alacsony frekvencián**
   <br> 
-  <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/alacsonyfrekicsillapitas.jpg"/> 
-  </details> 
 
  **90 dB - 29,8 dB = 60,2 dB**
 
  **magas frekvencián**
   <br> 
-  <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/magasfrekicsillapitas.jpg"/> 
-  </details> 
 
  **90 dB - 89,1 dB = 0,9 dB**
 
