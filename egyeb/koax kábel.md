@@ -18,7 +18,7 @@ Alacsony csillapítású koax kábel elkészítése.
 
 **koax kábel** 
 
-**vágó** 
+**rtációs blankoló** 
   <br> 
   <details> 
   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/vago.jpg"/> 
@@ -32,7 +32,7 @@ Alacsony csillapítású koax kábel elkészítése.
 
  ## 2. Kábel készítés
 
-  Beállítjuk a vágót, majd levágjuk a kábel végét, ezután rátekerjük a csatlakozót.
+  Beállítjuk a rotációs blankolót, majd levágjuk a kábel végét, ezután rátekerjük a csatlakozót.
 
   **kész kábel oldalról**
    <br> 
