@@ -29,11 +29,11 @@
 
 ## 4. Tréner beállítása
 
-  **1. mérés 
+  **1. mérés paraméterei:**
 
 
 
-
+  **2. mérés paraméterei:**
 
 
 
