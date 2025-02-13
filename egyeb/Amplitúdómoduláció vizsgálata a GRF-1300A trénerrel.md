@@ -31,18 +31,36 @@
 
   **1. mérés paraméterei:**
 
-
+    800 MHz vivőfrekvencia
+    
+    100 KHz (0,1 MHz) moduláló jel
+  
+    100 % modulációs mélység
 
   **2. mérés paraméterei:**
 
+    900 MHz vivőfrekvencia
+    
+    500 KHz (0,5 MHz) moduláló jel
 
+    63 % modulációs mélység
 
+## 5. Mérési eredmények
 
+   **1. mérés**
+    <br>  
+    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/SCR01.BMP"/> 
 
+   <br>  
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/TA01.PNG"/> 
+   
+   **2. mérés**
+    <br>  
+    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/SCR02.BMP"/> 
 
+    <br>  
+    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/TA02.PNG"/> 
 
-
-
-## . Aláírás
+## 6. Aláírás
   
  **Jegyzőkönyv vezetője**: Szabó Alex
