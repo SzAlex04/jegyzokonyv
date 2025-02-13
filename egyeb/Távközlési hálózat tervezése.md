@@ -9,7 +9,7 @@
 
 **Mérés időpontja**: 2025.01.08
 
-**Felelős személy**: Szabó Alex 
+**Felelős személy**: Sándor Péter 
 
 ## 1. Cél 
  Egy működő távközlési hálózat kiépítése Mikrotik antennák segítségével. 
