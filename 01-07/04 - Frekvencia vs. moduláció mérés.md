@@ -8,7 +8,7 @@
 
 **Mérés időpontja**: 2024.12.04.
 
-**Felelős személy**: Szabó Alex
+**Felelős személy**: Sándor Péter
 
 **Csoport**: 13.E Gyak2
 
