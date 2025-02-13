@@ -47,19 +47,19 @@
 
 ## 5. Mérési eredmények
 
-   **1. mérés**
-    <br>  
-    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/SCR01.BMP"/> 
+  **1. mérés**
+   <br>  
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/SCR01.BMP"/> 
 
    <br>  
    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/TA01.PNG"/> 
    
-   **2. mérés**
-    <br>  
-    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/SCR02.BMP"/> 
-
-    <br>  
-    <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/TA02.PNG"/> 
+  **2. mérés**
+   <br>  
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/SCR02.BMP"/> 
+  
+   <br>  
+   <img src="https://github.com/SzAlex04/jegyzokonyv/blob/main/egyeb/TA02.PNG"/> 
 
 ## 6. Aláírás
   
