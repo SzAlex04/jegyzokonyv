@@ -1,6 +1,4 @@
-## Távközlés feladatok
-
-## Szabó Alex Máté
+## Távközlés feladatok - Szabó Alex Máté
 
 ### Jegyzőkönyvek
 
